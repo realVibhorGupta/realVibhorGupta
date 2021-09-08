@@ -16,3 +16,4 @@ I am writing a book on Machine Learning in iOS.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhgupta)](https://github.com/vibhgupta/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vibhgupta)](https://github.com/vibhgupta/github-readme-stats)
