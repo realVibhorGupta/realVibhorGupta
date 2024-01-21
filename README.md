@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vibhor Gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhgupta&label=Profile%20views&color=0e75b6&style=flat" alt="vibhgupta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=realVibhorGupta&label=Profile%20views&color=0e75b6&style=flat" alt="vibhor gupta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibhgupta" alt="vibhgupta" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realVibhorGupta" alt="vibhor gupta" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/realvibhorgupta" target="blank"><img src="https://img.shields.io/twitter/follow/realvibhorgupta?logo=twitter&style=for-the-badge" alt="realvibhorgupta" /></a> </p>
 
@@ -36,8 +36,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/realVibhorGupta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="realVibhorGupta" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhgupta&show_icons=true&locale=en&layout=compact" alt="vibhgupta" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realVibhorGupta&show_icons=true&locale=en&layout=compact" alt="vibhor gupta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhgupta&show_icons=true&locale=en" alt="vibhgupta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realVibhorGupta&show_icons=true&locale=en" alt="vibhor gupta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibhgupta&" alt="vibhgupta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realVibhorGupta&" alt="vibhor gupta" /></p>
